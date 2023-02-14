@@ -53,7 +53,7 @@ Later, the JSON Schemas will be published as an artifact at every tag/GitHub Rel
 
 Install the module (reminder: the future path will hopefully be `github.com/filecoin-project/dealfilter`):
 ```bash
-go get github.com/CIDgravity/deal-filter
+go get github.com/CIDgravity/dealfilter
 ```
 
 Use it:
