@@ -12,7 +12,7 @@ With `filecoin-project` permission, this repository must be handed over to the `
 
 Go library (types) & JSON Schema representing standard enriched Filecoin Storage and Retrieval deal proposal.
 
-The Go structs were originally extracted from the [Boost](https://github.com/filecoin-project/boost) project.
+The Go structs were extracted from the [Boost](https://github.com/filecoin-project/boost) project, before adding Go tags to it.
 
 See [this issue](https://github.com/filecoin-project/boost/issues/609) for some background.
 
